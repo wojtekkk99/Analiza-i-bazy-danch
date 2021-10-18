@@ -1,0 +1,1 @@
+Podczas analizy posluzylem sie biblioteka pandas. Puste rekordy zostaly zamienione na -1, a nastepnie pomijane. Tabela koncowa pokazuje dla kazdego kraju na przestrzeni lat ilosc zachorowań, zarówno dla mezczyzn jak i kobiet.
